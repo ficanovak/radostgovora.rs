@@ -8,7 +8,7 @@
 
 
 
- ## Website   ![GitHub](https://img.shields.io/badge/built%20with-HTML5-green) ![GitHub](https://img.shields.io/badge/-CSS3-blue)  ![GitHub](https://img.shields.io/badge/-JavaScript-orange)
+ ## Static Website Presentation   ![GitHub](https://img.shields.io/badge/built%20with-HTML5-green) ![GitHub](https://img.shields.io/badge/-CSS3-blue)  ![GitHub](https://img.shields.io/badge/-JavaScript-orange)
  
  A website presentation for **educational & speech therapy center** in Belgrade.
  
