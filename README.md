@@ -5,7 +5,10 @@
 # Radost Govora ![GitHub follow](https://img.shields.io/github/followers/ficanovak?label=Follow&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ficanovak/radostgovora.rs) ![GitHub](https://img.shields.io/github/license/ficanovak/radostgovora.rs) ![GitHub](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fwww.radostgovora.rs%2F)
 
 
- ## Website
+
+
+
+ ## Website   ![GitHub](https://img.shields.io/badge/built%20with-HTML5-green) ![GitHub](https://img.shields.io/badge/-CSS3-blue)  ![GitHub](https://img.shields.io/badge/-JavaScript-orange)
  
  A website presentation for **educational & speech therapy center** in Belgrade.
  
@@ -19,7 +22,7 @@ www.radostgovora.rs
 
 
 
-## Requests
+## Requests    
  - Fully responsive website
  - Clean and colorful design
  - SEO (pushed to 4th place on Google for predetermined keywords "logoped novi beograd")
